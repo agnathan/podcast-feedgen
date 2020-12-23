@@ -1,0 +1,31 @@
+{
+  "name": "podcast-feedgen",
+  "version": "1.0.0",
+  "description": "Generate a validate podcast feed",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agnathan/podcast-feedgen.git"
+  },
+  "keywords": [
+    "podcast",
+    "xml",
+    "feed",
+    "javascript"
+  ],
+  "author": "Daniel Holmlund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agnathan/podcast-feedgen/issues"
+  },
+  "homepage": "https://github.com/agnathan/podcast-feedgen#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
